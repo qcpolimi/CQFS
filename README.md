@@ -1,7 +1,8 @@
 # Collaborative-driven Quantum Feature Selection
 
 This repository was developed by Riccardo Nembrini, PhD student at Politecnico di Milano.
-See our [website](https://quantum.polimi.it/) for more information on our research group.
+See the websites of our [quantum computing group](https://quantum.polimi.it/) and of our
+[recommender systems group](http://recsys.deib.polimi.it/) for more information on our teams and works.
 This repository contains the source code for the article "**Feature Selection for Recommender Systems with Quantum
 Computing**".
 
